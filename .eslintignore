@@ -1,0 +1,11 @@
+**/*.log
+**/.DS_Store
+*.
+.vscode/settings.json
+node_modules
+build
+.cache
+.vscode
+dist
+tsconfig.tsbuildinfo
+vite.config.ts
