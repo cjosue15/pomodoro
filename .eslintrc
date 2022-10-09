@@ -40,10 +40,10 @@
     "react-hooks/exhaustive-deps": "warn",
 
     "prettier/prettier": [
-      "warn",
+      "error",
+      {},
       {
-        "endOfLine": "auto",
-        "singleQuote": true
+        "usePrettierrc": true
       }
     ]
   }
